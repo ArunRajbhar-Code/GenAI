@@ -27,3 +27,8 @@ scikit-learn
 
 # AWS bedrock
 langchain-aws
+
+# fast api
+fastapi
+uvicorn
+pydantic
